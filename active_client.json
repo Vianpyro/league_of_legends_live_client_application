@@ -1,0 +1,293 @@
+{
+    "activePlayer": {
+        "abilities": {
+            "E": {
+                "abilityLevel": 0,
+                "displayName": "Two-Shiv Poison",
+                "id": "TwoShivPoison",
+                "rawDescription": "GeneratedTip_Spell_TwoShivPoison_Description",
+                "rawDisplayName": "GeneratedTip_Spell_TwoShivPoison_DisplayName"
+            },
+            "Passive": {
+                "displayName": "Backstab",
+                "id": "ShacoPassive",
+                "rawDescription": "GeneratedTip_Passive_ShacoPassive_Description",
+                "rawDisplayName": "GeneratedTip_Passive_ShacoPassive_DisplayName"
+            },
+            "Q": {
+                "abilityLevel": 0,
+                "displayName": "Deceive",
+                "id": "Deceive",
+                "rawDescription": "GeneratedTip_Spell_Deceive_Description",
+                "rawDisplayName": "GeneratedTip_Spell_Deceive_DisplayName"
+            },
+            "R": {
+                "abilityLevel": 0,
+                "displayName": "Hallucinate",
+                "id": "HallucinateFull",
+                "rawDescription": "GeneratedTip_Spell_HallucinateFull_Description",
+                "rawDisplayName": "GeneratedTip_Spell_HallucinateFull_DisplayName"
+            },
+            "W": {
+                "abilityLevel": 0,
+                "displayName": "Jack In The Box",
+                "id": "JackInTheBox",
+                "rawDescription": "GeneratedTip_Spell_JackInTheBox_Description",
+                "rawDisplayName": "GeneratedTip_Spell_JackInTheBox_DisplayName"
+            }
+        },
+        "championStats": {
+            "abilityHaste": 0,
+            "abilityPower": 24,
+            "armor": 36,
+            "armorPenetrationFlat": 0,
+            "armorPenetrationPercent": 1,
+            "attackDamage": 63,
+            "attackRange": 125,
+            "attackSpeed": 0.7634000182151794,
+            "bonusArmorPenetrationPercent": 1,
+            "bonusMagicPenetrationPercent": 1,
+            "critChance": 0,
+            "critDamage": 175,
+            "currentHealth": 657,
+            "healShieldPower": 0,
+            "healthRegenRate": 1.7000000476837158,
+            "lifeSteal": 0,
+            "magicLethality": 0,
+            "magicPenetrationFlat": 0,
+            "magicPenetrationPercent": 1,
+            "magicResist": 32,
+            "maxHealth": 657,
+            "moveSpeed": 350,
+            "omnivamp": 0,
+            "physicalLethality": 0,
+            "physicalVamp": 0,
+            "resourceMax": 297,
+            "resourceRegenRate": 1.4320000410079956,
+            "resourceType": "MANA",
+            "resourceValue": 297,
+            "spellVamp": 0,
+            "tenacity": 0
+        },
+        "currentGold": 0,
+        "fullRunes": {
+            "generalRunes": [
+                {
+                    "displayName": "Dark Harvest",
+                    "id": 8128,
+                    "rawDescription": "perk_tooltip_DarkHarvest",
+                    "rawDisplayName": "perk_displayname_DarkHarvest"
+                },
+                {
+                    "displayName": "Cheap Shot",
+                    "id": 8126,
+                    "rawDescription": "perk_tooltip_CheapShot",
+                    "rawDisplayName": "perk_displayname_CheapShot"
+                },
+                {
+                    "displayName": "Eyeball Collection",
+                    "id": 8138,
+                    "rawDescription": "perk_tooltip_EyeballCollection",
+                    "rawDisplayName": "perk_displayname_EyeballCollection"
+                },
+                {
+                    "displayName": "Ultimate Hunter",
+                    "id": 8106,
+                    "rawDescription": "perk_tooltip_UltimateHunter",
+                    "rawDisplayName": "perk_displayname_UltimateHunter"
+                },
+                {
+                    "displayName": "Gathering Storm",
+                    "id": 8236,
+                    "rawDescription": "perk_tooltip_GatheringStorm",
+                    "rawDisplayName": "perk_displayname_GatheringStorm"
+                },
+                {
+                    "displayName": "Transcendence",
+                    "id": 8210,
+                    "rawDescription": "perk_tooltip_Transcendence",
+                    "rawDisplayName": "perk_displayname_Transcendence"
+                }
+            ],
+            "keystone": {
+                "displayName": "Dark Harvest",
+                "id": 8128,
+                "rawDescription": "perk_tooltip_DarkHarvest",
+                "rawDisplayName": "perk_displayname_DarkHarvest"
+            },
+            "primaryRuneTree": {
+                "displayName": "Domination",
+                "id": 8100,
+                "rawDescription": "perkstyle_tooltip_7200",
+                "rawDisplayName": "perkstyle_displayname_7200"
+            },
+            "secondaryRuneTree": {
+                "displayName": "Sorcery",
+                "id": 8200,
+                "rawDescription": "perkstyle_tooltip_7202",
+                "rawDisplayName": "perkstyle_displayname_7202"
+            },
+            "statRunes": [
+                {
+                    "id": 5005,
+                    "rawDescription": "perk_tooltip_StatModAttackSpeed"
+                },
+                {
+                    "id": 5008,
+                    "rawDescription": "perk_tooltip_StatModAdaptive"
+                },
+                {
+                    "id": 5002,
+                    "rawDescription": "perk_tooltip_StatModArmor"
+                }
+            ]
+        },
+        "level": 1,
+        "summonerName": "Vianpyro Decimus"
+    },
+    "allPlayers": [
+        {
+            "championName": "Shaco",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Doran's Ring",
+                    "itemID": 1056,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_1056_Description",
+                    "rawDisplayName": "Item_1056_Name",
+                    "slot": 0
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 2,
+                    "displayName": "Health Potion",
+                    "itemID": 2003,
+                    "price": 50,
+                    "rawDescription": "GeneratedTip_Item_2003_Description",
+                    "rawDisplayName": "Item_2003_Name",
+                    "slot": 2
+                }
+            ],
+            "level": 1,
+            "position": "",
+            "rawChampionName": "game_character_displayname_Shaco",
+            "respawnTimer": 0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Dark Harvest",
+                    "id": 8128,
+                    "rawDescription": "perk_tooltip_DarkHarvest",
+                    "rawDisplayName": "perk_displayname_DarkHarvest"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Domination",
+                    "id": 8100,
+                    "rawDescription": "perkstyle_tooltip_7200",
+                    "rawDisplayName": "perkstyle_displayname_7200"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Sorcery",
+                    "id": 8200,
+                    "rawDescription": "perkstyle_tooltip_7202",
+                    "rawDisplayName": "perkstyle_displayname_7202"
+                }
+            },
+            "scores": {
+                "assists": 0,
+                "creepScore": 0,
+                "deaths": 0,
+                "kills": 0,
+                "wardScore": 0
+            },
+            "skinID": 0,
+            "summonerName": "Vianpyro Decimus",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Cleanse",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerBoost_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBoost_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Exhaust",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerExhaust_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerExhaust_DisplayName"
+                }
+            },
+            "team": "ORDER"
+        },
+        {
+            "championName": "Malphite",
+            "isBot": true,
+            "isDead": false,
+            "items": [],
+            "level": 1,
+            "position": "",
+            "rawChampionName": "game_character_displayname_Malphite",
+            "respawnTimer": 0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Grasp of the Undying",
+                    "id": 8437,
+                    "rawDescription": "perk_tooltip_GraspOfTheUndying",
+                    "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Resolve",
+                    "id": 8400,
+                    "rawDescription": "perkstyle_tooltip_7204",
+                    "rawDisplayName": "perkstyle_displayname_7204"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Sorcery",
+                    "id": 8200,
+                    "rawDescription": "perkstyle_tooltip_7202",
+                    "rawDisplayName": "perkstyle_displayname_7202"
+                }
+            },
+            "scores": {
+                "assists": 0,
+                "creepScore": 0,
+                "deaths": 0,
+                "kills": 0,
+                "wardScore": 0
+            },
+            "skinID": 0,
+            "summonerName": "Malphite Bot",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Ghost",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Ignite",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+                }
+            },
+            "team": "CHAOS"
+        }
+    ],
+    "events": {
+        "Events": [
+            {
+                "EventID": 0,
+                "EventName": "GameStart",
+                "EventTime": 0.02656939998269081
+            }
+        ]
+    },
+    "gameData": {
+        "gameMode": "PRACTICETOOL",
+        "gameTime": 34.8155517578125,
+        "mapName": "Map11",
+        "mapNumber": 11,
+        "mapTerrain": "Default"
+    }
+}
